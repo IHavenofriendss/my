@@ -17,7 +17,7 @@
 <img src="https://telegra.ph/file/de3e9d2a021c2ac516b12.jpg">
 <p>
 
-#Deploy To Heroku : https://www.heroku.com/deploy?template=https://github.com/IHavenofriendss/TelegramChat
+#Deploy To Heroku : https://www.heroku.com/deploy?template=https://github.com/IHavenofriendss/my
 
 
 Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
