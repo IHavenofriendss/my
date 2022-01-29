@@ -34,4 +34,4 @@ like_str = "📠 Send Contact‌‌"
 
 
 def m_all_like(x):
-    return "Nih kak " + "username : @" + str(x)
+    return "You're Partner" + "username : @" + str(x)
