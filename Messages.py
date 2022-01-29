@@ -1,7 +1,7 @@
 m_start = "⚡️ Welcome ⚡️\n\nI hope you can make a friend or a partner\n\n💬 to find chat friends use the New Chat button‌‌"
 
 m_is_not_free_users = (
-    "\n\n❗️ Sorry you are not in chat"
+    "\n\n wait For You're Partner 💞"
 )
 
 m_is_connect = "\n\n✅ You are already in the chat, please send your chat"
