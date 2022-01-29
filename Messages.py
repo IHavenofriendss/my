@@ -4,11 +4,11 @@ m_is_not_free_users = (
     "\n\n❗️ Sorry you are not in chat"
 )
 
-m_is_connect = "✅ Anda sudah berada di dalam obrolan, silahkan kirim chat anda\n\n✅ You are already in the chat, please send your chat"
+m_is_connect = "\n\n✅ You are already in the chat, please send your chat"
 
-m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain?\n\nDo you want to chat with other people?"
+m_play_again = "\n\nDo you want to chat with other people?"
 
-m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda memiliki nama pengguna\n\n❌ Sorry, our bot can only communicate if you have a username"
+m_is_not_user_name = "\n\n❌ Sorry, our bot can only communicate if you have a username"
 
 m_good_bye = "\n\n❌ Sorry your interlocutor left the chat"
 
